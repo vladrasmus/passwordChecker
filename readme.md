@@ -1,0 +1,1 @@
+I did a simple recode of password checker by lubosdz (https://github.com/lubosdz)
