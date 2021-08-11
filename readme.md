@@ -1,1 +1,1 @@
-I did a simple recode of password checker by lubosdz (https://github.com/lubosdz)
+I did a simple recode of password checker by lubosdz (https://github.com/lubosdz/simple-js-password-checker)
